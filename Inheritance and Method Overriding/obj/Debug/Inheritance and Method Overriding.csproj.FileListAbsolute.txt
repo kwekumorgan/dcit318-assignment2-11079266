@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment2-11079266\Inheritance and Method Overriding\bin\Debug\Inheritance and Method Overriding.exe.config
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment2-11079266\Inheritance and Method Overriding\bin\Debug\Inheritance and Method Overriding.exe
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment2-11079266\Inheritance and Method Overriding\bin\Debug\Inheritance and Method Overriding.pdb
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment2-11079266\Inheritance and Method Overriding\obj\Debug\Inheritance and Method Overriding.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment2-11079266\Inheritance and Method Overriding\obj\Debug\Inheritance and Method Overriding.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment2-11079266\Inheritance and Method Overriding\obj\Debug\Inheritance and Method Overriding.exe
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment2-11079266\Inheritance and Method Overriding\obj\Debug\Inheritance and Method Overriding.pdb
