@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment2-11079266\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment2-11079266\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment2-11079266\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment2-11079266\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment2-11079266\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment2-11079266\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment2-11079266\Interfaces\obj\Debug\Interfaces.pdb
