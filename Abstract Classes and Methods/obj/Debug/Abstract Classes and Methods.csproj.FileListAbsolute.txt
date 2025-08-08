@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment2-11079266\Abstract Classes and Methods\bin\Debug\Abstract Classes and Methods.exe.config
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment2-11079266\Abstract Classes and Methods\bin\Debug\Abstract Classes and Methods.exe
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment2-11079266\Abstract Classes and Methods\bin\Debug\Abstract Classes and Methods.pdb
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment2-11079266\Abstract Classes and Methods\obj\Debug\Abstract Classes and Methods.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment2-11079266\Abstract Classes and Methods\obj\Debug\Abstract Classes and Methods.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment2-11079266\Abstract Classes and Methods\obj\Debug\Abstract Classes and Methods.exe
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment2-11079266\Abstract Classes and Methods\obj\Debug\Abstract Classes and Methods.pdb
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment2-11079266\Abstract Classes and Methods\obj\Debug\Abstract Classes and Methods.exe.config
